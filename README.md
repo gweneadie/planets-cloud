@@ -1,2 +1,3 @@
 # planets-cloud
-a test repository for software carpentry workshop
+This is a test repository for the Software Carpentry Workshop (Python).
+There isn't much more to say
